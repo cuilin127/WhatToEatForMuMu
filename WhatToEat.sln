@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatToEat", "WhatToEat\WhatToEat.csproj", "{24E5852C-EEE9-47CC-AE21-5D511AAA5DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E5852C-EEE9-47CC-AE21-5D511AAA5DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E5852C-EEE9-47CC-AE21-5D511AAA5DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E5852C-EEE9-47CC-AE21-5D511AAA5DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E5852C-EEE9-47CC-AE21-5D511AAA5DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8888D728-A686-490D-A30D-F7A2B501AE9C}
+	EndGlobalSection
+EndGlobal

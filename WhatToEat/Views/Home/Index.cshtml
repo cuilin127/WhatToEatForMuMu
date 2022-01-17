@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form asp-action="SubmitFood" method="post">
+        <div class="form-group">
+            <label>今晚吃什么？:</label>
+            <input class="form-control" type="text" id="food" name="food" placeholder="请在此处输入今晚吃什么">
+        </div>
+        <input type="submit" value="发送">
+    </form>
+</div>
